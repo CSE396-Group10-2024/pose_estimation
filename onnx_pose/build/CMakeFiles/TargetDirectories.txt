@@ -1,6 +1,0 @@
-/home/buysal/396/onnx_pose/build/CMakeFiles/main.dir
-/home/buysal/396/onnx_pose/build/CMakeFiles/edit_cache.dir
-/home/buysal/396/onnx_pose/build/CMakeFiles/rebuild_cache.dir
-/home/buysal/396/onnx_pose/build/src/CMakeFiles/src.dir
-/home/buysal/396/onnx_pose/build/src/CMakeFiles/edit_cache.dir
-/home/buysal/396/onnx_pose/build/src/CMakeFiles/rebuild_cache.dir
