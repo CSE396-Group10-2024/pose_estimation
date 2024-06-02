@@ -1,0 +1,13 @@
+{
+    "mode": "predict_cam", 
+    "video_directory": "/home/buysal/396/onnx_pose/videos",
+    "output_images_directory": "/home/buysal/396/onnx_pose/output_images", 
+    "input_video_path":"/home/buysal/396/onnx_pose/videos/IMG_8468.MOV",
+    "input_image_path":"b<",
+    "save_images":false,
+    "person_detection_path": "../person_detection_mediapipe_2023mar.onnx",
+    "pose_detection_path": "../pose_estimation_mediapipe_2023mar.onnx"
+    
+
+   
+}
